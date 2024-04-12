@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://raw.githubusercontent.com/happylucktoday/happylucktoday/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -113,6 +113,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/happylucktoday/happylucktoday/output/snake.svg" alt="Snake animation" />
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
