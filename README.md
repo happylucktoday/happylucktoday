@@ -1,6 +1,23 @@
-<h2 align="left">Hi 👋! Happy Luck Today</h2>
+<h2 align="center">Hi 👋! Happy Luck Today</h2>
 
 ###
+
+- 🔭 I’m currently working remotely.  
+  
+
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to Shopify and related technologies  
+  
+
+- ⚡ Fun fact: I like making friends(developers)  
+  
+
+<br/>  
+
+###
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -68,8 +85,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
