@@ -5,10 +5,10 @@
 - 🔭 I’m currently working remotely.  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently developing trading bots.  
   
 
-- ❓ Ask me about anything related to Shopify and related technologies  
+- ❓ Ask me about anything related to Shopify, Bots, Wallets, Dapps and related technologies  
   
 
 - ⚡ Fun fact: I like making friends(developers)  
